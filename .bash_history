@@ -1,0 +1,8 @@
+exit
+less text_file
+less
+less -text_file
+whoami
+exit
+git clone https://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A3FMNFA0rg44fAETnVF6_GCBaSA3QbRLaHSlmYHYbIEK
+exit
